@@ -1,4 +1,4 @@
-## MSDS7331 Data Mining
+## MSDS7331 Data Mining Term Project
 
 # Diabetes Patient Readmission Prediction - Regression, Classification and Clustering
 
